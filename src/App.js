@@ -30,6 +30,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <GlobalStyle />
         <AppRoute />
+        
       </ThemeProvider>
     </div>
   );

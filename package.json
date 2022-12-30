@@ -1,7 +1,7 @@
 {
   "name": "capastrength",
   "version": "0.1.0",
-  "homepage": "https://suhaswagh.github.io/capastrength",
+  "homepage": "https://suhaswagh.github.io/capastrength/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.9.0",
