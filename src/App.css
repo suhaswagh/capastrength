@@ -1,0 +1,20 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.App{
+    background-color: #f9f9f9;
+    letter-spacing: 1.5;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+}
+
+a:hover{
+    color: inherit;
+}
+
+button{
+    cursor: pointer;
+}
